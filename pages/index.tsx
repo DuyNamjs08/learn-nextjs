@@ -18,7 +18,7 @@ const Home: NextPage = () => {
         </h1>
 
         <p className={styles.description}>
-          Get started 
+        Chao Duy Nam Than yeu 
         </p>
 
         <div className={styles.grid}>
